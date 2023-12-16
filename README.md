@@ -1,2 +1,3 @@
 # Deeplearning
-Depplearning course 
+Deep learning course 
+This repo is exclusively for education purposes.
